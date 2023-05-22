@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\Homework2.7ConsoleApp1\Homework2.7ConsoleApp1\bin\Debug\Homework2.7ConsoleApp1.exe.config
+C:\Users\alexi\source\repos\Homework2.7ConsoleApp1\Homework2.7ConsoleApp1\bin\Debug\Homework2.7ConsoleApp1.exe
+C:\Users\alexi\source\repos\Homework2.7ConsoleApp1\Homework2.7ConsoleApp1\bin\Debug\Homework2.7ConsoleApp1.pdb
+C:\Users\alexi\source\repos\Homework2.7ConsoleApp1\Homework2.7ConsoleApp1\obj\Debug\Homework2.7ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Homework2.7ConsoleApp1\Homework2.7ConsoleApp1\obj\Debug\Homework2.7ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\Homework2.7ConsoleApp1\Homework2.7ConsoleApp1\obj\Debug\Homework2.7ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Homework2.7ConsoleApp1\Homework2.7ConsoleApp1\obj\Debug\Homework2.7ConsoleApp1.exe
+C:\Users\alexi\source\repos\Homework2.7ConsoleApp1\Homework2.7ConsoleApp1\obj\Debug\Homework2.7ConsoleApp1.pdb
